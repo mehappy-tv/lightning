@@ -90,7 +90,7 @@
             },
             "drupal/core": {
                 "1356276 - Allow profiles to provide a base/parent profile and load them in the correct order":
-                "https://www.drupal.org/files/issues/1356276-360.patch",
+                "https://www.drupal.org/files/issues/1356276-408--8.4.4.patch",
                 "2880374 - Experimental modules should not have warnings after being installed":
                 "https://www.drupal.org/files/issues/2880374-remove-experimental-warnings-6.patch",
                 "2880445 - Config sync should not throw a warning when not being writable":
