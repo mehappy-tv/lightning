@@ -93,8 +93,6 @@
                 "https://www.drupal.org/files/issues/1356276-408--8.4.4.patch",
                 "2880374 - Experimental modules should not have warnings after being installed":
                 "https://www.drupal.org/files/issues/2880374-remove-experimental-warnings-6.patch",
-                "2880445 - Config sync should not throw a warning when not being writable":
-                "https://www.drupal.org/files/issues/2880445-remove-config-write-warning-2.patch",
                 "2869592 - Disabled update module shouldn't produce a status report warning":
                 "https://www.drupal.org/files/issues/2869592-remove-update-warning-7.patch",
                 "2885441 - EntityReferenceAutocompleteWidget should define its size setting as an integer":
